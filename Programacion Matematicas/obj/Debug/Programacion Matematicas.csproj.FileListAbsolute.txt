@@ -1,0 +1,6 @@
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Programacion Matematicas\bin\Debug\Programacion_Matematicas.exe
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Programacion Matematicas\bin\Debug\Programacion_Matematicas.pdb
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Programacion Matematicas\obj\Debug\Programacion Matematicas.csproj.AssemblyReference.cache
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Programacion Matematicas\obj\Debug\Programacion Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Programacion Matematicas\obj\Debug\Programacion_Matematicas.exe
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Programacion Matematicas\obj\Debug\Programacion_Matematicas.pdb

@@ -1,0 +1,6 @@
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Pruebas\obj\Debug\Pruebas.csproj.AssemblyReference.cache
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Pruebas\obj\Debug\Pruebas.pdb

@@ -1,0 +1,6 @@
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Metodo de la secante\bin\Debug\Metodo_de_la_secante.exe
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Metodo de la secante\bin\Debug\Metodo_de_la_secante.pdb
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Metodo de la secante\obj\Debug\Metodo de la secante.csproj.AssemblyReference.cache
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Metodo de la secante\obj\Debug\Metodo de la secante.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Metodo de la secante\obj\Debug\Metodo_de_la_secante.exe
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Metodo de la secante\obj\Debug\Metodo_de_la_secante.pdb

@@ -1,0 +1,6 @@
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Newton raphson alan\bin\Debug\Newton_raphson_alan.exe
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Newton raphson alan\bin\Debug\Newton_raphson_alan.pdb
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Newton raphson alan\obj\Debug\Newton raphson alan.csproj.AssemblyReference.cache
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Newton raphson alan\obj\Debug\Newton raphson alan.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Newton raphson alan\obj\Debug\Newton_raphson_alan.exe
+C:\Users\hecto\Programacion Matematicas\Programacion Matematicas\Newton raphson alan\obj\Debug\Newton_raphson_alan.pdb
