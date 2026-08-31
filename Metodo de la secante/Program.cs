@@ -16,6 +16,10 @@ namespace Metodo_de_la_secante
             {
                 double x2 = x1 - Funcion.funcion(x1) * (x1 - x) / (Funcion.funcion(x1) - Funcion.funcion(x));
                 double error = Math.Abs(x2 - x1);
+                if (Funcion.funcion(x2) == 0)
+                {
+                    Console.WriteLine("fx es igual a " + x2);
+                }
                 if (error < tolerancia)
                 {
                     Console.WriteLine("Tu x2 Final es = " + x2);
